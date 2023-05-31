@@ -1,0 +1,345 @@
+﻿Replay Review #,Inning,Visit Score Pre-Play,Home Score Pre-Play,Score In Favor Of,Outs Pre-play,Runners Pre-play,Challenging Team,Calling Umpire,Play Type,Play Primary Subtype #1,Play Location,Call on the Field
+1,B3,0,2,CHC,1,R1,MIL,"Blaser, Cory",Tag Play,Timing,1B,Safe
+2,T8,0,4,CHC,1,R1,CHC,"Blaser, Cory",Force Play,Timing,1B,Safe
+3,T3,4,0,PHI,0,Bases Empty,N/A,"Nelson, Jeff",Rules Check,Pitch Timer,RC,N/A
+4,B8,5,4,PIT,1,R1,CIN,"Scheurwater, Stu",Tag Play,Timing,2B,Out
+5,T8,0,1,HOU,0,Bases Empty,CWS,"Ortiz, Roberto",Tag Play,Timing,3B,Out
+6,B2,1,1,Tied,0,Bases Empty,SD,"Conroy, Chris",Catcher's Interference,Bat Strikes Glove,HP,No Catcher's Interference
+7,T8,7,2,COL,2,R1,COL,"Conroy, Chris",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+8,T8,7,2,COL,2,R1,COL,"Conroy, Chris",Tag Play,Timing,HP,Out
+9,B8,1,2,OAK,1,"R1, R3",LAA,"Wolcott, Quinn",Tag Play,Runner Maintaining Contact with Base,2B,Safe
+10,T1,0,0,Tied,0,Bases Empty,NYM,"Rackley, David",Force Play,Timing,1B,Out
+11,B3,1,0,CWS,1,R1,CWS,"Ortiz, Roberto",Tag Play,Timing,2B,Safe
+12,B2,0,0,Tied,0,R1,AZ,"Blakney, Ryan",Tag Play,Timing,2B,Safe
+13,T4,3,3,Tied,1,"R1, R2",CLE,"Miller, Brennan",Tag Play,Timing,2B,Out
+14,T9,2,1,AZ,0,Bases Empty,AZ,"Tumpane, John",Tag Play,Tag / No Tag,1B,Out
+15,T4,1,2,HOU,1,Bases Empty,HOU,"Ortiz, Roberto",Force Play,Fielder Comes Back Down on Base,1B,Safe
+16,B4,3,2,CWS,2,R2,CWS,"Miller, Bill",Tag Play,Timing,2B,Safe
+17,B6,0,3,STL,0,"R1, R3",TOR,"Barry, Scott",Tag Play,Timing,HP,Safe
+18,T4,7,5,BAL,1,R1,BAL,"Barksdale, Lance",Tag Play,Timing,3B,Out
+19,T7,4,2,NYM,0,Bases Empty,NYM,"Moscoso, Edwin",Force Play,Fielder Maintaining Contact with Base,1B,Out
+20,B8,8,7,BAL,2,Bases Empty,N/A,"Little, Will",Hit by Pitch,HBP: Hand,HP,Hit by Pitch
+21,T9,6,2,NYM,2,"R2, R3",N/A,"Guccione, Chris",Tag Play,Timing,3B,Out
+22,T9,6,2,NYM,2,"R2, R3",N/A,"Rackley, David",Time Play,Attempt to Advance,HP,Run Does Not Score
+23,T9,3,16,TEX,2,R1,N/A,"Nelson, Jeff",Potential Home Run,Fair / Foul (HR),LF,No Home Run
+24,B9,8,7,BAL,2,R1,N/A,"Barksdale, Lance",Potential Home Run,Stadium Boundary (HR),LF,Home Run
+25,B9,7,5,SF,1,"R1, R2, R3",NYY,"Estabrook, Mike",Force Play,Fielder Maintaining Contact with Base,2B,Out
+26,B9,7,5,SF,1,"R1, R2, R3",NYY,"Bacchus, Erich",Force Play,Fielder Maintaining Contact with Base,1B,Out
+27,B1,0,0,Tied,1,R1,COL,"Conroy, Chris",Force Play,Fielder Maintaining Contact with Base,2B,Safe
+28,B1,0,0,Tied,0,Bases Empty,N/A,"Hudson, Marvin",Potential Home Run,Spectator Interference (HR),LF,No Home Run
+29,B4,1,5,LAD,2,R1,AZ,"Hudson, Marvin",Tag Play,Timing,2B,Safe
+30,T1,0,0,Tied,1,R1,KC,"Randazzo, Tony",Force Play,Timing,1B,Safe
+31,B2,0,0,Tied,0,Bases Empty,CWS,"Ortiz, Roberto",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+32,T6,0,4,NYY,0,Bases Empty,SF,"Estabrook, Mike",Force Play,Timing,1B,Out
+33,B7,1,3,CIN,0,Bases Empty,CIN,"Wegner, Mark",Catch / No Catch,Maintaining Possession,LF,Catch
+34,T8,0,6,NYY,2,Bases Empty,SF,"Bacchus, Erich",Hit by Pitch,HBP: Feet,HP,No Hit by Pitch
+35,B7,4,9,STL,1,"R1, R3",TOR,"Beck, Adam",Force Play,Timing,1B,Safe
+36,T4,0,0,Tied,1,R2,OAK,"Wolcott, Quinn",Hit by Pitch,"HBP: Arm, Torso, or Leg",HP,Hit by Pitch
+37,T6,6,0,LAA,2,Bases Empty,LAA,"Valentine, Junior",Fair / Foul,Outfield Ground,RF,Foul Ball
+38,T9,1,1,Tied,0,R2,AZ,"Blakney, Ryan",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+39,T9,1,1,Tied,0,R2,AZ,"Blakney, Ryan",Tag Play,Tag / No Tag,HP,Out
+40,B9,12,3,SF,1,Bases Empty,SF,"Hoye, James",Hit by Pitch,"HBP: Arm, Torso, or Leg",HP,Hit by Pitch
+41,B9,12,3,SF,1,Bases Empty,N/A,"Hoye, James",Record Keeping,Count Check,RK,N/A
+42,T4,2,0,DET,2,Bases Empty,DET,"Nelson, Jeff",Force Play,Timing,1B,Out
+43,B5,4,0,DET,0,"R1, R3",HOU,"Bucknor, CB",Force Play,Fielder Comes Back Down on Base,2B,Out
+44,T9,4,9,KC,0,Bases Empty,KC,"Gonzalez, Manny",Potential Home Run,Spectator Interference (HR),LF,Home Run
+45,B5,4,2,COL,2,"R1, R2, R3",LAD,"Baker, Jordan",Potential Home Run,Fair / Foul (HR),RF,No Home Run
+46,T8,7,8,OAK,0,R1,OAK,"Barrett, Lance",Tag Play,Tag / No Tag,2B,Safe
+47,T6,1,5,SD,2,"R1, R2",SD,"Kulpa, Ron",Tag Play,Timing,HP,Safe
+48,B5,2,2,Tied,2,Bases Empty,N/A,"Segal, Chris",Potential Home Run,Stadium Boundary (HR),LF,No Home Run
+49,T8,3,1,TOR,1,"R1, R3",TOR,"Gonzalez, Manny",Force Play,Fielder Maintaining Contact with Base,2B,Out
+50,B1,0,0,Tied,0,R1,WSH,"Vanover, Larry",Tag Play,Timing,2B,Out
+51,T2,0,0,Tied,0,Bases Empty,TB,"Moscoso, Edwin",Force Play,Timing,1B,Out
+52,B5,1,4,HOU,0,Bases Empty,DET,"Segal, Chris",Tag Play,Timing,1B,Safe
+53,B7,4,1,PIT,2,"R1, R3",N/A,"Iassogna, Dan",Potential Home Run,Fair / Foul (HR),RF,No Home Run
+54,B6,2,2,Tied,0,Bases Empty,TEX,"Blakney, Ryan",Force Play,Timing,1B,Out
+55,T9,4,1,PIT,1,R1,BOS,"Barry, Scott",Hit by Pitch,HBP: Hand,HP,Hit by Pitch
+56,B8,1,7,CWS,0,Bases Empty,CWS,"Libka, John",Tag Play,Timing,1B,Out
+57,T10,6,4,CLE,2,R1,OAK,"Márquez, Alfonso",Tag Play,Tag / No Tag,2B,Safe
+58,B2,4,0,SF,1,"R1, R2",SF,"Hoye, James",Tag Play,Timing,2B,Safe
+59,B8,6,0,TOR,0,Bases Empty,N/A,"Carapazza, Vic",Potential Home Run,Fair / Foul (HR),LF,Home Run
+60,T8,0,1,COL,0,Bases Empty,WSH,"Torres, Carlos",Force Play,Timing,1B,Out
+61,T9,5,2,LAD,1,"R1, R2",LAD,"De Jesus, Ramon",Hit by Pitch,HBP: Helmet,HP,No Hit by Pitch
+62,B5,1,2,PHI,2,R2,PHI,"Porter, Alan",Force Play,Timing,1B,Out
+63,T4,1,0,HOU,1,Bases Empty,MIN,"Carlson, Mark",Tag Play,Timing,2B,Safe
+64,B4,5,3,CWS,0,Bases Empty,PIT,"Estabrook, Mike",Force Play,Timing,1B,Out
+65,B4,0,2,MIL,0,R1,STL,"Carapazza, Vic",Force Play,Fielder Touching a Base,2B,Safe
+66,B4,1,2,LAA,1,"R1, R3",TOR,"Randazzo, Tony",Force Play,Foot Race,1B,Safe
+67,T7,3,4,AZ,2,R1,AZ,"Eddings, Doug",Tag Play,Timing,1B,Safe
+68,T4,0,0,Tied,0,Bases Empty,N/A,"Barry, Scott",Potential Home Run,Stadium Boundary (HR),CF,No Home Run
+69,B3,1,0,CIN,2,"R2, R3",CIN,"Barber, Sean",Tag Play,Timing,3B,Safe
+70,T9,2,0,CIN,2,R1,PHI,"Porter, Alan",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+71,T8,3,2,SEA,1,R1,CLE,"Reyburn, D.J.",Tag Play,Timing,1B,Safe
+72,B1,4,1,LAD,2,R2,LAD,"Barrett, Lance",Force Play,Timing,1B,Safe
+73,T3,0,0,Tied,0,Bases Empty,COL,"Blaser, Cory",Catch / No Catch,Maintaining Possession,CF,No Catch
+74,T9,8,12,AZ,1,R1,LAD,"Barrett, Lance",Force Play,Timing,1B,Out
+75,T2,0,1,TB,2,R2,OAK,"Hudson, Marvin",Tag Play,Tag / No Tag,3B,Out
+76,T2,0,1,PHI,0,R1,PHI,"Barber, Sean",Tag Play,Timing,2B,Safe
+77,B4,1,1,Tied,0,Bases Empty,BOS,"Merzel, Dan",Force Play,Runner Touching a Base,1B,Safe
+78,T5,2,1,BOS,0,R1,DET,"Merzel, Dan",Force Play,Attempt to Double Off / Return to Base (Lineout --> Appeal),1B,Safe
+79,B6,0,1,PIT,1,"R1, R2",CWS,"Wills, Ryan",Force Play,Possession,2B,Safe
+80,T5,1,3,BAL,1,R1,BAL,"Wegner, Mark",Force Play,Timing,1B,Safe
+81,B6,1,4,BAL,2,"R1, R2",BAL,"Wegner, Mark",Force Play,Timing,1B,Out
+82,T9,1,3,ATL,0,R1,N/A,"Wendelstedt, Hunter",Potential Home Run,Stadium Boundary (HR),LF,No Home Run
+83,B3,0,2,TB,1,R1,TB,"Lentz, Nic",Force Play,Timing,2B,Out
+84,B3,0,2,TB,1,R1,TB,"Fairchild, Chad",Force Play,Timing,1B,Out
+85,B3,0,2,TB,2,R1,TB,"Lentz, Nic",Tag Play,Timing,2B,Out
+86,T8,2,4,PIT,1,R1,PIT,"Ballou, Brock",Slide Rule,Slides Short of the Base,2B,No Violation
+87,T8,2,4,PIT,1,R1,PIT,"Layne, Jerry",Force Play,Timing,1B,Safe
+88,B7,4,6,ATL,0,"R1, R2, R3",CIN,"Blakney, Ryan",Slide Rule,Contact with Fielder,HP,No Violation
+89,B7,4,6,ATL,0,"R1, R2, R3",CIN,"Hudson, Marvin",Force Play,Timing,1B,Safe
+90,T7,3,4,TOR,2,R1,DET,"Estabrook, Mike",Tag Play,Timing,2B,Out
+91,T7,2,3,TEX,1,R1,TEX,"Kulpa, Ron",Tag Play,Timing,2B,Safe
+92,B9,4,1,SD,0,R1,NYM,"Little, Will",Hit by Pitch,"HBP: Arm, Torso, or Leg",HP,Hit by Pitch
+93,B9,3,3,Tied,2,Bases Empty,MIN,"Muchlinski, Mike",Tag Play,Timing,3B,Out
+94,B2,0,0,Tied,1,Bases Empty,WSH,"Eddings, Doug",Force Play,Fielder Touching a Base,1B,Safe
+95,B6,8,14,CHC,2,R1,CHC,"Wolcott, Quinn",Tag Play,Timing,2B,Out
+96,T6,0,2,SF,0,"R1, R2",LAD,"Knight, Brian",Catcher's Interference,Bat Strikes Glove,HP,No Catcher's Interference
+97,B1,0,0,Tied,1,"R2, R3",CLE,"Rackley, David",Catch / No Catch,Trap Play,CF,Catch
+98,B3,2,2,Tied,1,R1,SD,"Barksdale, Lance",Tag Play,Timing,2B,Safe
+99,T7,5,0,HOU,1,"R1, R2",HOU,"Mahrley, Nick",Force Play,Timing,1B,Out
+100,T9,5,1,SEA,2,R1,SEA,"Valentine, Junior",Tag Play,Timing,2B,Out
+101,T7,0,5,AZ,0,Bases Empty,MIL,"Iassogna, Dan",Tag Play,Tag / No Tag,1B,Out
+102,T7,3,5,AZ,0,"R1, R2",MIL,"Iassogna, Dan",Force Play,Timing,1B,Out
+103,B1,0,0,Tied,1,"R1, R2",N/A,"Lentz, Nic",Potential Home Run,Spectator Interference (HR),RF,Home Run
+104,T10,3,3,Tied,0,R2,TOR,"Bacchus, Erich",Tag Play,Timing,3B,Safe
+105,T4,1,3,SF,0,R1,SF,"Tichenor, Todd",Tag Play,Timing,2B,Safe
+106,T8,7,7,Tied,2,R1,BAL,"Moore, Malachi",Tag Play,Timing,1B,Safe
+107,T1,0,0,Tied,0,R1,MIN,"Tomlinson, Nate",Force Play,Timing,2B,Out
+108,T4,1,2,DET,0,Bases Empty,SF,"Wegner, Mark",Catch / No Catch,Trap Play,RF,Catch
+109,T1,0,0,Tied,0,Bases Empty,STL,"Barksdale, Lance",Hit by Pitch,HBP: Feet,HP,Hit by Pitch
+110,B6,1,3,WSH,1,R2,CLE,"Tumpane, John",Force Play,Fielder Maintaining Contact with Base,1B,Safe
+111,T2,5,1,ATL,0,R1,ATL,"Gonzalez, Manny",Fair / Foul,Outfield Wall,LF,Foul Ball
+112,T3,1,0,TEX,2,R2,N/A,"Bacchus, Erich",Potential Home Run,Stadium Boundary (HR),CF,No Home Run
+113,T6,2,3,BOS,0,R1,BOS,"Kulpa, Ron",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+114,B7,4,3,BAL,1,"R1, R2",CWS,"Knight, Brian",Force Play,Fielder Comes Back Down on Base,2B,Out
+115,T9,4,4,Tied,2,R1,DET,"Scheurwater, Stu",Catch / No Catch,Transfer (OF),LF,No Catch
+116,T8,3,5,SEA,1,R1,COL,"Hamari, Adam",Force Play,Timing,1B,Out
+117,T5,6,1,SF,1,R1,SF,"Scheurwater, Stu",Force Play,Fielder Maintaining Contact with Base,2B,Out
+118,T5,6,1,SF,1,R1,SF,"Dreckman, Bruce",Force Play,Timing,1B,Out
+119,T4,1,0,AZ,1,Bases Empty,N/A,"Rehak, Jeremie",Potential Home Run,Fair / Foul (HR),LF,No Home Run
+120,B4,1,0,AZ,1,Bases Empty,MIA,"Fairchild, Chad",Force Play,Timing,1B,Out
+121,B1,0,0,Tied,0,Bases Empty,CLE,"Blakney, Ryan",Tag Play,Tag / No Tag,1B,Safe
+122,B8,7,6,LAA,0,R1,LAA,"Blaser, Cory",Catcher's Interference,Bat Strikes Glove,HP,Catcher's Interference
+123,T3,0,0,Tied,0,"R1, R3",HOU,"Wills, Ryan",Tag Play,Timing,1B,Safe
+124,T8,5,4,CLE,1,"R1, R3",N/A,"Tumpane, John",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+125,T8,5,4,CLE,1,"R1, R3",N/A,"Tumpane, John",Tag Play,Timing,HP,Out
+126,T8,6,3,ATL,1,"R1, R2, R3",KC,"Valentine, Junior",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+127,B5,1,0,CHC,1,R1,CHC,"Porter, Alan",Force Play,Foot Race,2B,Safe
+128,B3,0,0,Tied,1,R1,MIN,"Hoye, James",Hit by Pitch,HBP: Feet,HP,Hit by Pitch
+129,T5,3,1,TB,2,R1,TB,"Barrett, Lance",Tag Play,Timing,2B,Out
+130,T5,3,1,ATL,1,R1,KC,"Gonzalez, Manny",Tag Play,Timing,1B,Safe
+131,B8,6,5,CLE,1,"R2, R3",WSH,"Blakney, Ryan",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+132,T7,3,3,Tied,0,R1,PIT,"Barksdale, Lance",Force Play,Timing,2B,Out
+133,B9,3,3,Tied,2,R1,STL,"Barksdale, Lance",Force Play,Fielder Comes Back Down on Base,2B,Out
+134,B8,13,3,PHI,2,Bases Empty,PHI,"Moscoso, Edwin",Tag Play,Runner Maintaining Contact with Base,2B,Safe
+135,B5,0,0,Tied,1,R1,TEX,"Diaz, Laz",Tag Play,Runner Maintaining Contact with Base,2B,Safe
+136,B1,0,0,Tied,0,Bases Empty,NYM,"Ripperger, Mark",Hit by Pitch,"HBP: Arm, Torso, or Leg",HP,Hit by Pitch
+137,B2,2,0,ATL,2,"R1, R2",ATL,"Drake, Rob",Tag Play,Timing,3B,Safe
+138,T4,6,1,CHC,2,"R1, R2",CHC,"Ballou, Brock",Fair / Foul,Outfield Ground,LF,Foul Ball
+139,B8,13,1,PIT,0,R1,PIT,"Morales, Gabe",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+140,T8,7,4,PHI,2,R1,PHI,"May, Ben",Tag Play,Timing,2B,Out
+141,B4,2,4,MIA,1,Bases Empty,MIA,"Barrett, Lance",Catcher's Interference,Bat Strikes Glove,HP,No Catcher's Interference
+142,T4,4,0,LAA,2,R3,NYY,"Merzel, Dan",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+143,T1,0,0,Tied,2,R1,HOU,"O'Nora, Brian",Tag Play,Timing,2B,Safe
+144,B2,0,1,STL,2,"R1, R2, R3",STL,"Johnson, Adrian",Force Play,Timing,2B,Out
+145,T1,0,0,Tied,1,"R1, R2",OAK,"Hamari, Adam",Force Play,Timing,1B,Safe
+146,B10,4,4,Tied,2,"R2, R3",MIN,"Gibson, Tripp",Fair / Foul,Spectator Interference,RF,Fair Ball
+147,B8,4,0,TOR,1,Bases Empty,HOU,"MacKay, Alex",Force Play,Timing,1B,Out
+148,T7,5,3,PIT,1,R1,PIT,"Iassogna, Dan",Tag Play,Timing,2B,Out
+149,B9,8,7,AZ,1,Bases Empty,N/A,"Johnson, Adrian",Rules Check,OBR,RC,N/A
+150,B9,5,3,PIT,0,Bases Empty,COL,"Iassogna, Dan",Force Play,Timing,1B,Out
+151,T10,4,4,Tied,0,R2,SEA,"Porter, Alan",Tag Play,Tag / No Tag,3B,Safe
+152,B2,0,0,Tied,0,R1,CLE,"Knight, Brian",Force Play,Timing,1B,Safe
+153,T2,2,3,STL,1,Bases Empty,STL,"Johnson, Adrian",Force Play,Fielder Maintaining Contact with Base,1B,Safe
+154,B7,8,0,TB,1,Bases Empty,CIN,"Wills, Ryan",Force Play,Timing,1B,Out
+155,T7,9,3,TEX,2,R2,TEX,"Moore, Malachi",Tag Play,Timing,HP,Out
+156,T5,0,2,HOU,1,R1,TOR,"Hoberg, Pat",Tag Play,Runner Maintaining Contact with Base,2B,Out
+157,T2,0,4,PIT,1,R1,CIN,"Kulpa, Ron",Tag Play,Timing,2B,Out
+158,T6,2,0,COL,1,"R1, R2",COL,"Knight, Brian",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+159,T6,2,0,COL,1,"R1, R2",COL,"Knight, Brian",Tag Play,Timing,HP,Out
+160,B1,0,0,Tied,1,R1,CHC,"Estabrook, Mike",Tag Play,Timing,2B,Out
+161,T5,2,2,Tied,2,Bases Empty,CHC,"Fletcher, Andy",Force Play,Timing,1B,Safe
+162,T9,7,5,SD,0,R1,SD,"Wolf, Jim",Tag Play,Timing,2B,Out
+163,T1,0,0,Tied,1,Bases Empty,DET,"Carapazza, Vic",Force Play,Timing,1B,Out
+164,T1,1,0,HOU,0,R2,HOU,"Nelson, Jeff",Hit by Pitch,HBP: Grazing Uniform,HP,No Hit by Pitch
+165,T2,3,0,COL,0,R1,PHI,"Randazzo, Tony",Force Play,Timing,1B,Safe
+166,T3,3,0,COL,1,Bases Empty,COL,"Randazzo, Tony",Force Play,Fielder Maintaining Contact with Base,1B,Out
+167,T5,1,4,ATL,2,R1,HOU,"Segal, Chris",Tag Play,Tag / No Tag,2B,Out
+168,B9,7,5,CWS,0,Bases Empty,N/A,"Scheurwater, Stu",Potential Home Run,Spectator Interference (HR),RF,Home Run
+169,T9,6,1,TOR,2,"R1, R2, R3",TOR,"Gonzalez, Manny",Force Play,Fielder Maintaining Contact with Base,1B,Out
+170,B3,1,3,PHI,1,Bases Empty,COL,"Knight, Brian",Tag Play,Timing,2B,Safe
+171,B2,1,4,SF,1,"R1, R3",SF,"Drake, Rob",Tag Play,Tag / No Tag,2B,Out
+172,B2,1,5,SF,1,"R2, R3",NYM,"Whitson, Chad",Tag Play,Timing,HP,Safe
+173,T8,3,4,PHI,2,"R1, R2",COL,"Tichenor, Todd",Force Play,Fielder Maintaining Contact with Base,1B,Out
+174,B2,0,1,CLE,1,Bases Empty,MIA,"Barksdale, Lance",Force Play,Timing,1B,Safe
+175,B4,3,1,KC,1,Bases Empty,N/A,"Cuzzi, Phil",Potential Home Run,Spectator Interference (HR),LF,Home Run
+176,T7,4,3,SD,1,Bases Empty,SD,"Muchlinski, Mike",Force Play,Timing,1B,Out
+177,T6,3,4,LAA,1,R1,LAA,"Livensparger, Shane",Tag Play,Timing,1B,Safe
+178,B9,5,3,SD,1,Bases Empty,AZ,"Muchlinski, Mike",Force Play,Fielder Maintaining Contact with Base,1B,Out
+179,T9,6,8,LAA,0,R1,N/A,"Livensparger, Shane",Potential Home Run,Stadium Boundary (HR),RF,Home Run
+180,B2,0,1,PHI,2,R2,COL,"Randazzo, Tony",Tag Play,Timing,3B,Safe
+181,T2,0,0,Tied,0,"R1, R2",HOU,"May, Ben",Force Play,Timing,1B,Out
+182,B8,3,7,PHI,1,R1,N/A,"Knight, Brian",Potential Home Run,Spectator Interference (HR),CF,Home Run
+183,B4,0,1,PIT,2,R1,PIT,"Visconti, Jansen",Tag Play,Timing,2B,Out
+184,B5,1,3,CLE,1,R2,MIA,"Merzel, Dan",Tag Play,Timing,3B,Safe
+185,B4,0,3,TEX,1,R2,TEX,"Miller, Brennan",Force Play,Timing,1B,Out
+186,T1,0,0,Tied,0,"R1, R3",SD,"Wolf, Jim",Tag Play,Timing,3B,Out
+187,B9,5,2,HOU,0,R1,ATL,"Segal, Chris",Hit by Pitch,HBP: Feet,HP,No Hit by Pitch
+188,B1,2,0,HOU,1,R2,TB,"Mahrley, Nick",Tag Play,Timing,3B,Out
+189,T5,6,4,TEX,2,R1,CIN,"Merzel, Dan",Tag Play,Timing,2B,Safe
+190,T8,6,0,COL,1,Bases Empty,CLE,"Eddings, Doug",Force Play,Timing,1B,Safe
+191,T7,4,2,DET,1,R1,DET,"Tumpane, John",Tag Play,Timing,2B,Out
+192,T9,8,7,OAK,0,Bases Empty,OAK,"Tomlinson, Nate",Hit by Pitch,HBP: Grazing Uniform,HP,No Hit by Pitch
+193,T10,8,8,Tied,0,R2,LAA,"Muchlinski, Mike",Tag Play,Tag / No Tag,3B,Safe
+194,T10,8,8,Tied,1,"R1, R3",N/A,"Tomlinson, Nate",Tag Play,Timing,HP,Safe
+195,B3,4,0,COL,1,Bases Empty,CLE,"Moscoso, Edwin",Force Play,Timing,1B,Out
+196,T3,0,3,TOR,1,R1,TOR,"Guccione, Chris",Force Play,Timing,1B,Safe
+197,T2,1,0,NYY,1,R1,MIN,"Whitson, Chad",Force Play,Timing,1B,Safe
+198,T5,2,0,WSH,0,Bases Empty,WSH,"Carlson, Mark",Force Play,Fielder Touching a Base,1B,Out
+199,T7,4,2,SEA,0,Bases Empty,N/A,"Wills, Ryan",Potential Home Run,Stadium Boundary (HR),RF,No Home Run
+200,B7,5,2,SEA,0,R1,SEA,"Wills, Ryan",Tag Play,Tag / No Tag,1B,Safe
+201,B8,8,7,LAD,0,R1,PIT,"Bucknor, CB",Force Play,Timing,2B,Out
+202,T9,5,2,SEA,1,R1,PHI,"Wills, Ryan",Force Play,Timing,1B,Safe
+203,B4,0,2,CIN,1,"R1, R2",CIN,"Barksdale, Lance",Force Play,Timing,1B,Out
+204,T5,0,0,Tied,1,R1,LAD,"Segal, Chris",Tag Play,Runner Maintaining Contact with Base,2B,Out
+205,B5,0,2,PIT,1,"R1, R2",PIT,"Segal, Chris",Force Play,Timing,2B,Out
+206,B5,0,2,PIT,1,"R1, R2",PIT,"Bucknor, CB",Force Play,Timing,1B,Out
+207,B7,0,5,PIT,2,"R1, R2",PIT,"Nelson, Jeff",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+208,B8,5,4,SEA,0,R1,PHI,"Diaz, Laz",Fair / Foul,Outfield Ground,LF,Foul Ball
+209,B8,2,5,SF,0,R2,STL,"Emmel, Paul",Tag Play,Timing,HP,Safe
+210,T7,1,0,STL,2,"R2, R3",STL,"Lentz, Nic",Force Play,Timing,1B,Out
+211,T3,1,2,CWS,1,Bases Empty,TB,"Wendelstedt, Hunter",Force Play,Timing,1B,Out
+212,B4,0,0,Tied,1,Bases Empty,ATL,"Valentine, Junior",Force Play,Fielder Comes Back Down on Base,1B,Safe
+213,T6,1,1,Tied,0,Bases Empty,AZ,"Jimenez, Emil",Tag Play,Timing,1B,Out
+214,B8,1,1,Tied,0,"R1, R2",MIL,"Vondrak, Clint",Force Play,Fielder Maintaining Contact with Base,2B,Out
+215,T4,5,1,CIN,1,"R1, R3",CIN,"Libka, John",Slide Rule,Contact with Fielder,2B,Violation
+216,T9,4,1,AZ,0,"R1, R2",COL,"Emmel, Paul",Stadium Boundary Call,Universal Ground Rule,CF,In Play
+217,B1,0,0,Tied,2,Bases Empty,N/A,"Carapazza, Vic",Potential Home Run,Stadium Boundary (HR),RF,No Home Run
+218,T8,4,3,PIT,0,R1,WSH,"Bacchus, Erich",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+219,B1,0,0,Tied,0,Bases Empty,MIA,"Miller, Bill",Force Play,Timing,1B,Out
+220,T6,3,7,MIA,0,R1,CHC,"Miller, Bill",Force Play,Timing,1B,Out
+221,T3,0,3,SD,1,Bases Empty,N/A,"O'Nora, Brian",Potential Home Run,Fair / Foul (HR),RF,Home Run
+222,T3,0,3,SD,1,Bases Empty,N/A,"Márquez, Alfonso",Record Keeping,Count Check,RK,N/A
+223,T3,4,0,PIT,2,R2,WSH,"Thomas, Derek",Tag Play,Tag / No Tag,3B,Safe
+224,T1,1,0,AZ,1,R1,COL,"Fairchild, Chad",Tag Play,Timing,2B,Safe
+225,B7,0,2,TEX,2,R1,TEX,"Barrett, Lance",Tag Play,Timing,2B,Out
+226,B9,5,3,BAL,0,Bases Empty,BAL,"Ramos, Charlie",Tag Play,Timing,1B,Safe
+227,T3,0,5,WSH,0,R1,N/A,"Diaz, Laz",Potential Home Run,Fair / Foul (HR),LF,No Home Run
+228,T7,4,3,CIN,1,"R1, R2",CIN,"Reyburn, D.J.",Tag Play,Timing,3B,Out
+229,B7,4,3,SF,2,Bases Empty,SD,"Hoberg, Pat",Hit by Pitch,HBP: Hand / Knob of Bat,HP,No Hit by Pitch
+230,B9,4,4,Tied,0,"R2, R3",N/A,"Libka, John",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+231,B9,4,4,Tied,0,"R2, R3",N/A,"Libka, John",Record Keeping,Count Check,RK,N/A
+232,T6,0,2,NYM,2,"R1, R2, R3",ATL,"Valentine, Junior",Tag Play,Timing,HP,Out
+233,B8,0,2,NYY,1,R1,CLE,"Visconti, Jansen",Tag Play,Timing,1B,Safe
+234,T7,4,1,CHC,2,Bases Empty,CHC,"Tosi, Alex",Force Play,Timing,1B,Out
+235,B5,3,3,Tied,1,R1,CIN,"Rehak, Jeremie",Tag Play,Tag / No Tag,2B,Safe
+236,T9,4,13,LAD,1,R1,PHI,"Riggs, Jeremy",Force Play,Timing,1B,Out
+237,T5,0,1,TB,1,"R2, R3",TB,"Johnson, Adrian",Touching a Base,Touch,HP,Touch
+238,B5,0,1,WSH,1,"R1, R3",WSH,"Knight, Brian",Tag Play,Tag / No Tag,3B,Out
+239,B6,6,5,TOR,0,Bases Empty,N/A,"Merzel, Dan",Potential Home Run,Spectator Interference (HR),LF,Home Run
+240,B6,6,6,Tied,0,R1,TOR,"Little, Will",Force Play,Timing,1B,Safe
+241,B7,1,4,WSH,2,R3,CHC,"Randazzo, Tony",Force Play,Timing,1B,Safe
+242,T6,9,3,BAL,1,"R1, R3",BAL,"Ortiz, Roberto",Force Play,Timing,1B,Out
+243,B9,2,2,Tied,0,R1,CWS,"Ripperger, Mark",Tag Play,Timing,2B,Out
+244,T6,0,1,SD,2,R1,SD,"Fairchild, Chad",Tag Play,Runner Maintaining Contact with Base,3B,Safe
+245,B8,5,4,PHI,1,"R2, R3",LAD,"Moscoso, Edwin",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+246,B8,5,4,PHI,1,"R2, R3",LAD,"Moscoso, Edwin",Tag Play,Timing,HP,Out
+247,T4,4,3,MIN,2,"R1, R2",MIN,"Bellino, Dan",Tag Play,Timing,3B,Out
+248,B8,1,7,TB,1,Bases Empty,PIT,"Gonzalez, Manny",Force Play,Timing,1B,Safe
+249,T6,0,0,Tied,2,Bases Empty,SEA,"Blakney, Ryan",Tag Play,Timing,2B,Out
+250,T8,1,2,OAK,0,R1,N/A,"Jimenez, Emil",Force Play,Timing,1B,Out
+251,T8,1,2,OAK,1,R1,N/A,"Blakney, Ryan",Tag Play,Timing,2B,Out
+252,B6,0,2,TB,1,R1,PIT,"Johnson, Adrian",Tag Play,Runner Maintaining Contact with Base,2B,Safe
+253,B5,8,6,BAL,0,R1,KC,"Miller, Bill",Force Play,Timing,1B,Out
+254,T6,8,7,BAL,2,Bases Empty,KC,"Miller, Bill",Force Play,Fielder Maintaining Contact with Base,1B,Safe
+255,B6,4,0,MIL,0,Bases Empty,MIL,"Reyburn, D.J.",Hit by Pitch,HBP: Upper Bat,HP,Hit by Pitch
+256,T12,3,2,MIN,0,R2,N/A,"Livensparger, Shane",Potential Home Run,Fair / Foul (HR),RF,No Home Run
+257,B3,0,0,Tied,2,R2,CWS,"Tosi, Alex",Fair / Foul,Outfield Ground,RF,Fair Ball
+258,B3,0,0,Tied,2,R2,CWS,"Tichenor, Todd",Tag Play,Runner Maintaining Contact with Base,3B,Safe
+259,T3,0,1,ATL,0,Bases Empty,BAL,"Moore, Malachi",Force Play,Timing,1B,Out
+260,T6,4,0,TOR,1,R1,PIT,"Visconti, Jansen",Tag Play,Timing,2B,Safe
+261,B4,0,1,NYM,1,Bases Empty,NYM,"Hudson, Marvin",Tag Play,Timing,2B,Out
+262,B7,4,4,Tied,1,R1,TB,"Merzel, Dan",Tag Play,Tag / No Tag,HP,Out
+263,T7,8,1,BAL,1,Bases Empty,ATL,"Wegner, Mark",Tag Play,Timing,2B,Safe
+264,T5,5,2,OAK,1,R1,N/A,"Fairchild, Chad",Potential Home Run,Fair / Foul (HR),RF,No Home Run
+265,B8,9,1,BAL,1,R1,BAL,"Moore, Malachi",Force Play,Timing,1B,Safe
+266,B4,1,1,Tied,1,"R1, R2, R3",AZ,"Ortiz, Roberto",Force Play,Foot Race,2B,Out
+267,B9,6,4,HOU,0,Bases Empty,HOU,"Cuzzi, Phil",Tag Play,Timing,2B,Safe
+268,T5,0,3,STL,0,R1,STL,"Gonzalez, Manny",Tag Play,Timing,2B,Safe
+269,B8,2,4,CHC,1,R1,CHC,"Tomlinson, Nate",Force Play,Fielder Touching a Base,2B,Out
+270,T5,0,2,TB,2,R1,NYY,"Additon, Ryan",Tag Play,Timing,2B,Out
+271,T4,3,1,CWS,2,R3,CWS,"Tosi, Alex",Hit by Pitch,HBP: Feet,HP,No Hit by Pitch
+272,T6,3,4,CIN,1,R1,CIN,"Tichenor, Todd",Slide Rule,Contact with Fielder,2B,No Violation
+273,T6,3,4,CIN,1,R1,CIN,"Tosi, Alex",Force Play,Timing,1B,Safe
+274,B9,5,3,OAK,2,"R1, R2",KC,"Lentz, Nic",Force Play,Timing,1B,Out
+275,B9,7,6,WSH,0,Bases Empty,N/A,"Miller, Bill",Potential Home Run,Spectator Interference (HR),LF,Home Run
+276,T5,2,0,HOU,2,"R1, R3",SEA,"Bellino, Dan",HP Collision Rule,Potential Catcher's Violation,HP,Violation
+277,T9,8,0,TEX,2,R1,TEX,"Ceja, Nestor",Force Play,Timing,1B,Out
+278,B2,0,0,Tied,2,R1,BOS,"Eddings, Doug",Tag Play,Timing,2B,Safe
+279,T10,2,1,BAL,1,R2,BAL,"Moore, Malachi",Tag Play,Timing,3B,Out
+280,B10,2,2,Tied,1,R1,N/A,"Scheurwater, Stu",Tag Play,Timing,2B,Safe
+281,T11,2,2,Tied,0,R2,N/A,"Moore, Malachi",Tag Play,Timing,3B,Out
+282,T9,12,6,COL,1,R1,COL,"Wendelstedt, Hunter",Force Play,Timing,1B,Out
+283,B10,3,2,MIA,0,R2,CHC,"Tomlinson, Nate",Force Play,Timing,1B,Out
+284,B4,0,2,SEA,1,"R1, R3",SEA,"Livensparger, Shane",Force Play,Fielder Maintaining Contact with Base,2B,Out
+285,B4,0,2,SEA,1,"R1, R3",SEA,"Ripperger, Mark",Force Play,Timing,1B,Out
+286,T9,7,1,TOR,1,Bases Empty,N/A,"Blaser, Cory",Potential Home Run,Stadium Boundary (HR),RF,No Home Run
+287,T2,0,2,SD,0,Bases Empty,LAD,"Reyburn, D.J.",Catch / No Catch,Trap Play,RF,Catch
+288,T4,0,2,SD,1,R1,SD,"Reyburn, D.J.",Tag Play,Timing,1B,Safe
+289,T3,0,1,CLE,0,"R1, R3",DET,"Layne, Jerry",Force Play,Timing,1B,Out
+290,B5,0,0,Tied,1,"R1, R2",COL,"Porter, Alan",Tag Play,Timing,3B,Safe
+291,T7,1,0,TB,0,"R1, R2, R3",TB,"Tosi, Alex",Tag Play,Timing,2B,Out
+292,B5,1,0,STL,0,R1,CHC,"Wills, Ryan",Fair / Foul,Outfield Ground,RF,Foul Ball
+293,B5,1,0,STL,0,"R1, R2",STL,"Wills, Ryan",Force Play,Timing,1B,Safe
+294,B6,4,4,Tied,0,R1,KC,"Gonzalez, Manny",Hit by Pitch,HBP: Feet,HP,No Hit by Pitch
+295,T8,2,7,NYY,2,Bases Empty,OAK,"Estabrook, Mike",Hit by Pitch,HBP: Hand / Knob of Bat,HP,No Hit by Pitch
+296,T3,0,1,CLE,2,R2,DET,"Layne, Jerry",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+297,T3,0,1,CLE,2,R2,DET,"Layne, Jerry",Tag Play,Runner Touching a Base,HP,Out
+298,B4,1,2,PHI,1,R1,TOR,"Fairchild, Chad",Force Play,Timing,1B,Safe
+299,T7,3,5,PHI,1,"R2, R3",PHI,"Rehak, Jeremie",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+300,T8,2,8,ATL,1,"R1, R2",BOS,"Vondrak, Clint",Force Play,Timing,1B,Out
+301,T3,0,0,Tied,2,R1,TEX,"Drake, Rob",Catch / No Catch,Trap Play,LF,Catch
+302,B3,0,0,Tied,0,R2,TEX,"Miller, Bill",Hit by Pitch,HBP: Hand / Knob of Bat,HP,Hit by Pitch
+303,T4,0,1,LAA,2,R1,HOU,"Jimenez, Edwin",Tag Play,Timing,1B,Out
+304,B1,0,1,NYY,2,"R1, R3",N/A,"Diaz, Laz",Potential Home Run,Spectator Interference (HR),RF,Home Run
+305,B6,3,3,Tied,1,"R1, R2, R3",PIT,"Muchlinski, Mike",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+306,B6,3,3,Tied,1,"R1, R2, R3",PIT,"Muchlinski, Mike",Tag Play,Timing,HP,Out
+307,T3,4,0,WSH,1,R1,SF,"Hoberg, Pat",Force Play,Timing,1B,Safe
+308,T4,2,2,Tied,2,"R1, R3",HOU,"Hoye, James",Force Play,Timing,1B,Out
+309,B9,1,1,Tied,1,"R2, R3",PHI,"Fairchild, Chad",Tag Play,Timing,HP,Out
+310,B10,1,1,Tied,1,"R1, R2",TOR,"Fairchild, Chad",Tag Play,Timing,HP,Safe
+311,T6,2,1,NYM,1,R1,CIN,"Wegner, Mark",Slide Rule,Contact with Fielder,2B,No Violation
+312,T6,2,1,NYM,1,R1,CIN,"Moore, Malachi",Force Play,Timing,1B,Safe
+313,T5,0,4,CIN,0,R1,NYM,"Dreckman, Bruce",Force Play,Timing,2B,Out
+314,T8,1,3,KC,2,"R1, R3",KC,"Johnson, Adrian",Fair / Foul,Outfield Ground,LF,Fair Ball
+315,T9,4,0,SF,0,"R1, R3",AZ,"De Jesus, Ramon",Tag Play,Runner Touching a Base,2B,Safe
+316,T4,1,2,CLE,1,R1,LAA,"Gonzalez, Manny",Tag Play,Timing,HP,Out
+317,B5,2,1,CIN,1,R3,MIA,"Torres, Carlos",Tag Play,Possession,HP,Out
+318,B5,0,0,Tied,2,"R1, R2",ATL,"Diaz, Laz",Tag Play,Tag / No Tag,HP,Safe
+319,B6,1,0,PIT,0,Bases Empty,PIT,"Reyburn, D.J.",Fair / Foul,Player Deflection,RF,Fair Ball
+320,T7,1,1,Tied,1,Bases Empty,N/A,"Jimenez, Edwin",Potential Home Run,Fair / Foul (HR),LF,Home Run
+321,B2,1,1,Tied,0,"R1, R2",OAK,"Livensparger, Shane",Force Play,Timing,1B,Out
+322,B7,3,2,PHI,1,"R1, R3",COL,"Wills, Ryan",Tag Play,Timing,2B,Out
+323,B7,1,3,MIL,0,"R2, R3",MIL,"Carlson, Mark",Catcher's Interference,Bat Strikes Glove,HP,No Catcher's Interference
+324,T3,3,3,Tied,1,R1,AZ,"Eddings, Doug",Tag Play,Timing,2B,Safe
+325,B3,3,3,Tied,2,Bases Empty,N/A,"Ramos, Charlie",Potential Home Run,Fair / Foul (HR),LF,No Home Run
+326,T7,0,2,LAD,2,"R1, R3",LAD,"Riggs, Jeremy",Tag Play,Timing,HP,Safe
+327,B7,4,7,AZ,2,"R1, R2",AZ,"Eddings, Doug",Force Play,Timing,2B,Out
+328,T5,5,0,TB,2,R3,TB,"Muchlinski, Mike",Force Play,Timing,1B,Out
+329,B6,6,4,TB,0,R1,TB,"Porter, Alan",Tag Play,Timing,2B,Safe
+330,B7,3,0,TEX,2,R1,OAK,"Livensparger, Shane",HP Collision Rule,Potential Catcher's Violation,HP,No Violation
+331,B7,3,0,TEX,2,R1,OAK,"Livensparger, Shane",Tag Play,Timing,HP,Out
+332,B1,1,0,LAA,1,"R2, R3",CLE,"Gonzalez, Manny",Tag Play,Timing,3B,Out
+333,B1,1,0,LAA,1,"R2, R3",CLE,"Valentine, Junior",Time Play,Tag Up,3B,Run Does Not Score
+334,T7,0,1,CWS,0,R1,CWS,"Scheurwater, Stu",Force Play,Timing,1B,Safe
+335,T9,2,4,LAD,2,Bases Empty,SD,"Miller, Bill",Force Play,Timing,1B,Out
+336,B8,2,5,AZ,2,R3,N/A,"Ramos, Charlie",Potential Home Run,Stadium Boundary (HR),RF,No Home Run
+337,B2,0,0,Tied,2,"R1, R2",LAA,"Gonzalez, Manny",Tag Play,Timing,2B,Safe
+338,T1,0,0,Tied,0,"R1, R3",PIT,"Jimenez, Edwin",Force Play,Timing,1B,Out
+339,B2,2,1,ATL,0,"R1, R2, R3",TOR,"Fletcher, Andy",Force Play,Fielder Touching a Base,HP,Out
+340,T3,0,0,Tied,2,R3,MIA,"Blaser, Cory",Catcher's Interference,Bat Strikes Glove,HP,Catcher's Interference
+341,B4,0,0,Tied,2,"R1, R2",MIA,"Kulpa, Ron",Force Play,Timing,1B,Out
+342,T6,3,2,SEA,0,R1,SEA,"Randazzo, Tony",Tag Play,Timing,2B,Out
+343,T9,4,0,PIT,2,R1,BAL,"Hoye, James",Tag Play,Tag / No Tag,2B,Safe
+344,B7,6,1,STL,0,R1,N/A,"Hamari, Adam",Potential Home Run,Fair / Foul (HR),RF,Home Run
